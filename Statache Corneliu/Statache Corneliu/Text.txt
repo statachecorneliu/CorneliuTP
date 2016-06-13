@@ -1,0 +1,10 @@
+Instructiuni:
+   *Pentru a aduga elevi noi apasati pe butonul <Adauga Elev> si 
+ introduceti datele acestuia cu conditiile: 
+           +Sa aiba un nume;     
+           +Note de la 1 la 10;    
+           +Notele sa fie numere intregi;
+           +Maxim 15 elevi pot fi introdusi;
+   *Pentru a reseta catalogul apasati butonul <Resetare Catalog>   
+   *Pentru a ordona dupa medii apasati butonul <Sorteaza Medii>
+   *Pentru a ordona dupa nume apsati butonul <Sorteaza Nume>
